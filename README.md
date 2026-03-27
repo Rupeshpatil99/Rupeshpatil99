@@ -1,6 +1,10 @@
 # 💫 About Me:
-I’m an aspiring Full Stack Developer with experience in Java, Python, and React.js, focused on building real-world web and cloud-based applications.  <br>Open to learning and collaborating on meaningful development projects.  <br>Currently learning React.js, Flask, and cloud fundamentals.  <br>Ask me about Java, Python, and web development basics.<br> <br>
-
+ Full Stack Developer | Java • Python • React.js
+ Passionate developer building real-world web and cloud-based applications.
+ Currently learning: React.js, Flask, Cloud (AWS, Docker)
+ Tech: Java, Python, JavaScript, React, Flask
+ Open to collaboration and learning
+ Goal: Full Stack + Cloud Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rupesh-patil-6ab86a250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilrupesh762@gmail.com) 
