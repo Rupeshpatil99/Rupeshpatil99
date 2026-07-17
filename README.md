@@ -1,10 +1,11 @@
 # 💫 About Me:
- Full Stack Developer | Java • Python • React.js
- Passionate developer building real-world web and cloud-based applications.
- Currently learning: React.js, Flask, Cloud (AWS, Docker)
- Tech: Java, Python, JavaScript, React, Flask
- Open to collaboration and learning
- Goal: Full Stack + Cloud Developer
+ Aspiring Data Analyst building a career at the intersection of Data, AI, and DevOps.
+📊 Skilled in Python, SQL, Excel & Power BI for data analysis
+🤖 Building AI/ML projects to solve real-world problems
+☁️ Learning AWS for cloud deployment
+⚙️ Advancing into DevOps (Docker, CI/CD, Linux, Git)
+🔄 Goal: MLOps — deploying & maintaining ML models in production
+Open to entry-level opportunities in Data Analytics & ML Engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rupesh-patil-6ab86a250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilrupesh762@gmail.com) 
