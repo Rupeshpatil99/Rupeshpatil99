@@ -1,16 +1,42 @@
-[![Typing SVG].https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analytics%F0%9F%92%BB;MLops+engineer;AI%2FML+Enthusiast+)](https://git.io/typing-svg)#
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Rupesh%20Satale%20%7C%20Knox&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analytics%F0%9F%92%BB;MLops+engineer;AI%2FML+Enthusiast+)](https://git.io/typing-svg)#
+
+<a href="https://www.linkedin.com/in/rupesh-patil-6ab86a250" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:patilrupesh762@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Rupeshpatil99" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rupeshpatil99&style=flat-square&color=6366F1"/>
+
+<div/>
+-------
 
 
+## 👨‍💻 About Me
 
-💫 About Me:
-Aspiring Data Analyst building a career at the intersection of Data, AI, and DevOps.<br>📊 Skilled in Python, SQL, Excel & Power BI for data analysis<br>🤖 Building AI/ML projects to solve real-world problems<br>☁️ Learning AWS for cloud deployment<br>⚙️ Advancing into DevOps (Docker, CI/CD, Linux, Git)<br>🔄 Goal: MLOps — deploying & maintaining ML models in production<br>Open to entry-level opportunities in Data Analytics & ML Engineering.
+* 🎓 Computer Engineering Graduate with a passion for transforming data into meaningful insights and building real-world solutions.
+* 📊 Currently learning **Data Analytics** using **Excel, SQL, Python, Power BI, and Tableau**.
+* 🤖 Exploring **Machine Learning** and developing AI-powered applications.
+* ☁️ Expanding my expertise in **AWS Cloud**, **Docker**, **CI/CD**, and **DevOps**.
+* 💻 Passionate about **Python**, **SQL**, **Data Visualization**, and **Business Intelligence**.
+* 📚 Consistently improving my skills through hands-on projects, coding challenges, and continuous learning.
+* 🚀 Seeking opportunities in **Data Analytics**, **Business Intelligence**, and **Cloud Computing**.
+* 🌊 Fun fact: Still chasing my **One Piece**—writing code, breaking limits, and enjoying the journey.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rupesh-patil-6ab86a250) 
+## 🎯 What I Do
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+`📊 Data Analytics` · `🐍 Python` · `🗄️ SQL` · `📈 Power BI` · `📉 Tableau` · `📑 Excel` · `🤖 Machine Learning` · `📊 Data Visualization` · `☁️ AWS Cloud` · `⚙️ DevOps` · `🔧 Problem Solving`
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,redis,flask,git,github,githubactions,linux,ubuntu,aws,azure,gcp,docker,kubernetes,prometheus,grafana,terraform,jenkins,ansible,gitlab,go,postman&perline=10&theme=dark" />
+</div>
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rupeshpatil99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rupeshpatil99&theme=dark&hide_border=false)<br/>
