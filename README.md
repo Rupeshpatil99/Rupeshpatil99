@@ -35,12 +35,28 @@
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rupeshpatil99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rupeshpatil99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupeshpatil99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Analytics:
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupeshpatil99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rupeshpatil99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+</td>
+</tr>
+</table>
 
----
-[![](https://komarev.com/ghpvc/?username=Rupeshpatil99&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Streak & Vibes
+## 🔥 Streak & Vibes
 
+<div align="left">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Rupeshpatil99&theme=tokyonight&hide_border=true&background=0D1117" width="55%"/>
+
+<br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
