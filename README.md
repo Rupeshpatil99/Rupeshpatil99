@@ -47,7 +47,7 @@
 </tr>
 </table>
 
-## 🔥 Streak & Vibes
+
 ## 🔥 Streak & Vibes
 
 <div align="left">
@@ -55,8 +55,6 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rupeshpatil99&theme=tokyonight&hide_border=true&background=0D1117" width="55%"/>
 
 <br/>
-
-*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
