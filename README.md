@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analytics%F0%9F%92%BB;MLops+engineer;AI%2FML+Enthusiast+)](https://git.io/typing-svg)# 💫 About Me:
+                                              [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analytics%F0%9F%92%BB;MLops+engineer;AI%2FML+Enthusiast+)](https://git.io/typing-svg)# 
+
+
+
+💫 About Me:
 Aspiring Data Analyst building a career at the intersection of Data, AI, and DevOps.<br>📊 Skilled in Python, SQL, Excel & Power BI for data analysis<br>🤖 Building AI/ML projects to solve real-world problems<br>☁️ Learning AWS for cloud deployment<br>⚙️ Advancing into DevOps (Docker, CI/CD, Linux, Git)<br>🔄 Goal: MLOps — deploying & maintaining ML models in production<br>Open to entry-level opportunities in Data Analytics & ML Engineering.
 
 
