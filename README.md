@@ -16,8 +16,7 @@
 
 * 📊 Currently learning **Data Analytics** using **Excel, SQL, Python, Power BI, and Tableau**.
 * 🤖 Exploring **Machine Learning** and developing AI-powered applications.
-* ☁️ Expanding my expertise in **AWS Cloud**, **Docker**, **CI/CD**, and **DevOps**.
-* 💻 Passionate about **Python**, **SQL**, **Data Visualization**, and **Business Intelligence**.
+* ☁️ Expanding my expertise in **AWS Cloud**, **Docker**, **CI/CD**, and **DevOps**
 * 📚 Consistently improving my skills through hands-on projects, coding challenges, and continuous learning.
 * 🚀 Seeking opportunities in **Data Analytics**, **Business Intelligence**, and **Cloud Computing**.
 <div/>
