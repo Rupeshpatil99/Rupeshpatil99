@@ -24,7 +24,7 @@
 <div align="left">
 ## 🎯 What I Do
 
-`📊 Data Analytics` · `🐍 Python` · `🗄️ SQL` · `📈 Power BI` · `📉 Tableau` · `📑 Excel` · `🤖 Machine Learning` · `📊 Data Visualization` · `☁️ AWS Cloud` · `⚙️ DevOps` · `🔧 Problem Solving`
+`📊 Data Analytics` · `🐍 Python` · `🗄️ SQL` · `📈 Power BI` · `📉 Tableau` · `📑 Excel` · `🤖 Machine Learning` · `📊 Data Visualization` · `☁️ AWS Cloud` · `⚙️ DevOps` · `🔧 Problem Solving`. `Django `.`RestAPI`.`Automation`.`Node Red`
 <div/>
 
 ## 🛠️ Tech Stack
