@@ -41,6 +41,7 @@
 
 ### 📊 Data Analytics & Visualization
 
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -49,41 +50,42 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
 ### 🤖 Machine Learning & AI
 
+<p align="left">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
 
 ### 🌐 Web & Backend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,flask,mysql,mongodb,postman"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+</p>
 
 ### ☁️ Cloud, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,vscode"/>
-
-- AWS: EC2, S3, IAM, VPC
-- CI/CD: GitHub Actions
-- API Testing: Postman
-- Database: MySQL and MongoDB
-
-
-
-## 📚 Currently Learning
-
-- [ ] Advanced SQL and MySQL
-- [ ] Advanced Excel and Power Query
-- [ ] Power BI and DAX
-- [ ] Python for Data Analytics
-- [ ] Advanced Pandas and NumPy
-- [ ] Statistics for Data Analytics
-- [ ] Machine Learning
-- [ ] Django REST Framework
-- [ ] AWS Cloud and Docker
-- [ ] CI/CD and DevOps fundamentals
-- [ ] MLOps fundamentals
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
 
 ## 📊 GitHub Statistics
 
